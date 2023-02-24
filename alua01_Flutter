@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+void main(){
+  
+  runApp(MaterialApp(
+    
+    title: "Estrutura PRincipal Flutter",
+    home:Column(children: <Widget>[
+      
+      Text('Flutter 2DS'),
+      Text('Flutter 2DS'),
+      Text('Flutter 2DS'),
+      Text('Flutter 2DS'),
+      Text('2DS SEXTA-FEIRA NO MOBILE'),
+      
+      ],),
+    
+    ));
+  
+
+}
+ 
