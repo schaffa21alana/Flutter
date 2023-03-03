@@ -25,6 +25,16 @@
           </td>
         </tr>
 
+        <tr>
+
+            <td cospan="2">
+                <h2>SOBRE O COLÉGIO</h2>
+                <p>
+
+                </p>
+            </td>
+        </tr>    
+
     <table>
     
 </body>
