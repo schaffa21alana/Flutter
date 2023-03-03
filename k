@@ -20,6 +20,11 @@
             </td>
         </tr>
 
+          <td colspan="2">
+            <img src="imagens/capa.png" alt="">
+          </td>
+        </tr>
+
     <table>
     
 </body>
