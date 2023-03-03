@@ -8,7 +8,7 @@
 </head>
 <body background="imagens/fundo.png">
 
-    <table border="2" width="900" align="center">
+    <table border="0" width="900" align="center">
 
         <tr>
             <td height="89"><img src="imagens/logo.png" alt=""></td>
@@ -28,10 +28,16 @@
         <tr>
 
             <td cospan="2">
-                <h2>SOBRE O COLÉGIO</h2>
+                <h2>Sobre o Colégio</h2>
                 <p>
+                    Lorem Lorem <b>ipsum dolor </b>sit amet, consectetur adipiscing elit. Suspendisse sit amet mollis nisl. Aliquam sit amet diam ac quam dignissim lobortis vel ac sapien. Proin placerat cursus risus. Duis blandit varius hendrerit. Vivamus sed placerat turpis, vel viverra neque. Duis at tempor magna, sit amet gravida purus. Nulla facilisi. Vivamus accumsan risus vitae risus blandit venenatis. Sed sed nisl tempor, tincidunt elit sit amet, facilisis neque. Donec rutrum mauris odio, gravida vestibulum nulla cursus vitae. Cras vestibulum lectus sed augue viverra ultrices ac nec lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vestibulum cursus elit, vitae placerat lectus laoreet a.
 
+                    Lorem Lorem <b>ipsum dolor </b>sit amet, consectetur adipiscing elit. Suspendisse sit amet mollis nisl. Aliquam sit amet diam ac quam dignissim lobortis vel ac sapien. Proin placerat cursus risus. Duis blandit varius hendrerit. Vivamus sed placerat turpis, vel viverra neque. Duis at tempor magna, sit amet gravida purus. Nulla facilisi. Vivamus accumsan risus vitae risus blandit venenatis. Sed sed nisl tempor, tincidunt elit sit amet, facilisis neque. Donec rutrum mauris odio, gravida vestibulum nulla cursus vitae. Cras vestibulum lectus sed augue viverra ultrices ac nec lectus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. In vestibulum cursus elit, vitae placerat lectus laoreet a.
                 </p>
+                <center>
+                    <b></p>Todos os Direitos reservados</b></b>
+                    <center>
+                </td>
             </td>
         </tr>    
 
