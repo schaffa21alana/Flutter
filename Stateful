@@ -3,37 +3,39 @@ import 'package:flutter/material.dart';
 void main(){
   
   runApp(MaterialApp(
-  
-  debugShowCheckedModeBanner: false;
-    home: HomeStateful();
     
-  ));
+    debugShowCheckedModeBanner: false;
+    home: HomeStateful();
+  
+   ));
   
 }
 
 class HomeStateful extends StatefulWidget() {
   @override
-  _HomeStatefulState createState() => _HomeStatefulState();
-}
+  _HomeStatefulState createState() => _HomeStatefulState();  
+  }
 
 class _HomeStatefulState extends State<HomeStateful>{
-  
 
 var _texto = "AULA DE FLUTTER";
   
-  return Scafford(
-    appBar: AppBAr(
-      title: Text("AULA DE FLUTTER");
-      backgroundcolor: Colors.green,
-     ),
-    )
-      
+  return Scaffold(
+    appBar: AppBar(
+      title: Text( _texto) ,
+      backgroudcolor: Colors.purple,
+    
+    ),
+   )
   
-}
-
-  class _HomeStatefulState extends StatelessWidget {
-    @override
-    Widget build(BuildCntext context){
-      var _titulo = "AULA 2DS de FLUTTER";
+  
   }
+
+class _Home extends StatelassWidget {
+  @override
+  Widget build(BuildContext context){
+    var _titulo = "Aula 2DS de Flutter";
+  }  
+  
+  
 }
